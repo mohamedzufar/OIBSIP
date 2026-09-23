@@ -312,6 +312,10 @@ Higher values indicate that the model explains more variation in the target vari
 
 ## Model Performance
 
+
+![Model Comparison](screenshots/model_comparison.png)
+
+
 | Model | MAE | RMSE | R² |
 |---|---:|---:|---:|
 | Linear Regression | ₹133,098.53 | ₹261,925.34 | 0.6872 |
