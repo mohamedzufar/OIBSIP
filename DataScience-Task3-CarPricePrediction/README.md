@@ -277,7 +277,7 @@ Two regression models were trained and evaluated.
 ### 1. Linear Regression
 
 Linear Regression was used as the baseline regression model.
-
+![linear_regression](screenshots/linear_regression.png)
 ### 2. Random Forest Regressor
 
 Random Forest was used to capture nonlinear relationships and interactions between vehicle characteristics and selling price.
