@@ -40,6 +40,7 @@ The goal of this project is to develop a regression-based machine learning syste
 ## Dataset
 
 The dataset used in this project is the **Car Price Prediction Dataset** obtained from Kaggle.
+![Data Collection](screenshots/data_collection.png)
 
 ### Dataset Information
 
