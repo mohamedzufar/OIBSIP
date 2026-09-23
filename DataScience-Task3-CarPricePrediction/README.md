@@ -366,6 +366,8 @@ This analysis helps identify observations where the model produces larger differ
 
 ## Sample Testing
 
+![Sample Price Prediction](screenshots/sample_prediction.png)
+
 The trained Random Forest pipeline was tested using multiple hypothetical vehicle inputs.
 
 The sample inputs include:
