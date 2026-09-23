@@ -199,7 +199,7 @@ The following relationships were investigated:
 - Numerical feature correlations
 
 The correlation analysis showed notable relationships between selling price and features such as `max_power`, `engine`, `year`, and `car_age`.
-
+![Correlation Matrix](screenshots/correlation_matrix.png)
 The analysis also identified several high-value selling-price observations. These were not automatically removed because an extreme value is not necessarily an invalid observation.
 
 ---
