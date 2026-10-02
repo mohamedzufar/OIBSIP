@@ -22,6 +22,8 @@ An end-to-end data analysis project that explores unemployment trends across dif
 
 **Source:** Kaggle
 
+![Dataset Overview](screenshots/dataset.png)
+
 **Dataset ID:** `gokulrajkmv/unemployment-in-india`
 
 **Date Range:** May 2019 – June 2020
@@ -145,6 +147,8 @@ Tripura recorded the highest average unemployment rate among the analyzed region
 
 ## Monthly Unemployment Trend
 
+![Monthly Unemployment Trend](screenshots/monthly_trend.png)
+
 The monthly unemployment rate was analyzed from **May 2019 to June 2020**.
 
 A significant increase in unemployment was observed during April and May 2020.
@@ -170,7 +174,6 @@ The top 10 regions with the highest average unemployment rates were identified a
 This provides a clear comparison of unemployment levels across different regions.
 
 ## Correlation Analysis
-
 The relationship between the following variables was analyzed:
 
 - Estimated Unemployment Rate
@@ -192,6 +195,8 @@ This indicates a weak negative linear relationship within the analyzed dataset.
 A correlation heatmap was created using Seaborn to visualize relationships between the numerical variables.
 
 The heatmap helps identify positive and negative relationships between unemployment, employment, and labour participation.
+
+![Correlation Heatmap](screenshots/correlation_heatmap.png)
 
 ## COVID-19 Impact Analysis
 
@@ -231,6 +236,8 @@ The project includes:
 - Top 10 regions by average unemployment
 - Correlation heatmap
 - Pre-COVID vs COVID comparison
+
+![COVID Comparison](screenshots/covid_comparison.png)
 
 ## Key Findings
 
